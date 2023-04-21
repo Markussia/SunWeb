@@ -1,0 +1,22 @@
+.about {
+    background: linear-gradient(55deg, #fff, #ceffd2);
+    border: 1px solid #b5ffab;
+    border-radius: 6px;
+    width: 320px;
+    margin-top: 20px;
+    padding: 15px;
+    margin: 25px;
+}
+
+.about h1 {
+    font-size: 20px;
+}
+
+.about p {
+    margin-top: 15px;
+}
+
+.section {
+    display: flex;
+    flex-wrap: wrap;
+}
